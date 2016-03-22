@@ -1,5 +1,4 @@
-# Computing The Really Optimal Tour Across The USA On The Cloud With Python
-Geen dice are loaded (welcome to p-hacking)
+# Green dice are loaded (welcome to p-hacking)
 
 ## Author: [Jean-François Puget](https://www.ibm.com/developerworks/community/blogs/jfp/?lang=en)
 
