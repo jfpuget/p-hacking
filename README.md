@@ -4,7 +4,7 @@
 
 This notebook is the code used in my blog post on [Green dice are loaded (welcome to p-hacking)](https://www.ibm.com/developerworks/community/blogs/jfp/entry/green_dice_are_loaded_welcome_to_p_hacking)
 
-It demonstrate how to mislead people about a scientific experiment by hacking p-values following the methodlogy from this [xkcd comic](http://xkcd.com/882/):
+It demonstrates how to mislead people about a scientific experiment by hacking p-values following the methodlogy from this [xkcd comic](http://xkcd.com/882/):
 
 
 <img src="http://imgs.xkcd.com/comics/significant.png"></img>
